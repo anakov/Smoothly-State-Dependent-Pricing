@@ -1,5 +1,4 @@
 # pricing
-Smoothly state dependent pricing
 
 Program files for "Distributional Dynamics under Smoothly State-Dependent Pricing", 
    Bank of Spain working paper 0831, December 2008, (C) James Costain and Anton Nakov
