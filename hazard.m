@@ -1,6 +1,6 @@
 function hazd = hazard(horizon, RECURSEMAT, Pdist, TRANSMAT, P, lambda)
 % Computes the adjustment hazard function after an initial price change
-% hazd(k) = facadjusters(k)/fracsurvivors(k-1) 
+% hazd(k) = fracadjusters(k)/fracsurvivors(k-1) 
 % conditional on all firms having adjusted at time 0
 
 [nump, out] = size(Pdist);
